@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>Comments for OpenEdOz</title>
+	<atom:link href="http://openedoz.org/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>http://openedoz.org</link>
+	<description>Students, Universities and Open Education</description>
+	<lastBuildDate>Tue, 14 Jun 2016 15:26:32 +0000</lastBuildDate>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.7.11</generator>
+	<item>
+		<title>Comment on Vice Chancellor’s Strategic Fund Student OER Adaptation Project, University of Cape Town by Cıvata</title>
+		<link>http://openedoz.org/case-studies/vice-chancellors-strategic-fund-student-oer-adaptation-project-university-of-cape-town/#comment-25</link>
+		<dc:creator><![CDATA[Cıvata]]></dc:creator>
+		<pubDate>Tue, 14 Jun 2016 15:26:32 +0000</pubDate>
+		<guid isPermaLink="false">http://openedoz.org/?p=291#comment-25</guid>
+		<description><![CDATA[[&#8230;] http://openedoz.org/case-studies/vice-chancellors-strategic-fund-student-oer-adaptation-project-univ&#8230; [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] <a href="http://openedoz.org/case-studies/vice-chancellors-strategic-fund-student-oer-adaptation-project-univ&#038;#8230" rel="nofollow">http://openedoz.org/case-studies/vice-chancellors-strategic-fund-student-oer-adaptation-project-univ&#038;#8230</a>; [&#8230;]</p>
+]]></content:encoded>
+	</item>
+	<item>
+		<title>Comment on Feedback by February newsletter &#124; Creative Commons Aotearoa New Zealand</title>
+		<link>http://openedoz.org/feedback/#comment-17</link>
+		<dc:creator><![CDATA[February newsletter &#124; Creative Commons Aotearoa New Zealand]]></dc:creator>
+		<pubDate>Thu, 04 Feb 2016 01:30:37 +0000</pubDate>
+		<guid isPermaLink="false">http://openedoz.org/?page_id=151#comment-17</guid>
+		<description><![CDATA[[&#8230;] Australian draft roadmap for Open Education is open for comment. The artwork from David Bowie&#8217;s final album has been released under CC. The Yale Center for [&#8230;]]]></description>
+		<content:encoded><![CDATA[<p>[&#8230;] Australian draft roadmap for Open Education is open for comment. The artwork from David Bowie&#8217;s final album has been released under CC. The Yale Center for [&#8230;]</p>
+]]></content:encoded>
+	</item>
+</channel>
+</rss>

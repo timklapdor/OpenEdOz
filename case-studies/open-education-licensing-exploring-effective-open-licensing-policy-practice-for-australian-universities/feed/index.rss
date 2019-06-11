@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	Comments on: Open Education Licensing: Exploring Effective Open Licensing Policy &#038; Practice for Australian Universities	</title>
+	<atom:link href="http://openedoz.org/case-studies/open-education-licensing-exploring-effective-open-licensing-policy-practice-for-australian-universities/feed/" rel="self" type="application/rss+xml" />
+	<link>http://openedoz.org/case-studies/open-education-licensing-exploring-effective-open-licensing-policy-practice-for-australian-universities/</link>
+	<description>Students, Universities and Open Education</description>
+	<lastBuildDate>Tue, 16 Feb 2016 04:26:18 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.2.1</generator>
+</channel>
+</rss>
